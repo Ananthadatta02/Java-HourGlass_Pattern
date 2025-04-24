@@ -1,3 +1,5 @@
+
+s
 # Hourglass Pattern in Java
 
 ## Overview
